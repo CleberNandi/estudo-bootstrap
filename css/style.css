@@ -1,0 +1,26 @@
+.body{
+	font: 20px "Ariel";
+}
+
+.navbar {
+	background-color: #298a08;
+}
+
+.quem-somos {
+	background-color: #9292f2;
+	color: white;
+}
+
+.margin {
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+.parceiros {
+	background-color: #58fa58;
+}
+
+.bg-footer {
+	background-color: black;
+	color: white;
+}
